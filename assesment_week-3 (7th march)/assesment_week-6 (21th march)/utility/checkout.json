@@ -1,0 +1,11 @@
+{
+  "url": "https://automationexercise.com/",
+  "email": "nikita123@test.com",
+  "password": "Test@123",
+  "productIndex": 2,
+  "nameOnCard": "Nikita Meena",
+  "cardNumber": "4111111111111111",
+  "cvc": "123",
+  "expiryMonth": "12",
+  "expiryYear": "2028"
+}
