@@ -1,0 +1,25 @@
+{
+  "url": "https://automationexercise.com/",
+
+  "name": "Nikita",
+  "email": "nikita_test12@test.com",
+  "gender": "Mrs.",
+  "password": "Test@123",
+  "day": "10",
+  "month": "5",
+  "year": "2002",
+
+  "firstname": "Nikita",
+  "lastname": "Meena",
+  "company": "CapeG",
+  "address1": "Street 1",
+  "address2": "Near Park",
+  "country": "India",
+  "state": "Rajasthan",
+  "city": "Jaipur",
+  "zipcode": "302001",
+  "mobile": "9876543210",
+
+  "productIndex": 2,
+  "review": "Amazing product, really liked it!"
+}
